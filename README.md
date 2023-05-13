@@ -4,7 +4,7 @@
 
 ## [See the video demo here](https://youtu.be/idAOdibLhJE)
 
-# Tech Stack:
+# Tech Stacks:
 ---
 **1. Backend:** Python Django's Web Framework.
 
